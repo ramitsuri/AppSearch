@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f7a70161c0a92ce6348d452bfb93ac4b80ca063e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_8f5701b218f3f0ff116b5d1c7f447fb8572f4c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_fc26a8ca47aacc0efd64a2a36fe7659bcb04987d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6f19014375f4de7a19db99ec94de59fa4a784f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_ba789866362e63b28914080057a7e6fae987c527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_80d9734eb6c032cc4d80e61452008eef568e0aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_855818dca3d8a8dd9a05ff12da05d02c9fd869ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4218ba7db1ae36861da350418dff256b3d45ce0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_d583115ff6a938628f31d9838db481d0ce6f678e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_0ac263969bace84ab6e3be3c6179d753d41571c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5e47f0eb55dbfc84313065379be7001789daea0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="748403fe4055bbd4172e5cddf69dec0e724d4fe4">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f2d640112f59b77183f4117938c2dddfbf38246c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_ad7d5d55622f2a5166ac559bf8a7cb4d51d9f202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a36c8f2e8bc0ed0310062a218a97ed72458d5921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_3babbf62d90da33e4e9ebfae66d254c7514c3de3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5d4cb5412ac315a87fdab928df29480ef835ead1">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9385b9ca2b36db954dd7e6de25edfdbd697760e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3c75ba5658ecc9982f2c1d8145ac3237cb4d5e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\ramitsuri\Documents\Projects\AppSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_13415811a71308746c149d579ce30e14c00a422b\classes.dex" />
+    </item>
+
+</items>
