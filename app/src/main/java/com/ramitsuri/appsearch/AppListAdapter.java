@@ -1,4 +1,5 @@
 package com.ramitsuri.appsearch;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,12 +26,21 @@ public class AppListAdapter extends RecyclerView.Adapter<AppListAdapter.CustomVi
             super(itemView);
             this.appImage = (ImageButton)itemView.findViewById(R.id.appImage);
             this.appLabel = (TextView)itemView.findViewById(R.id.appLabel);
+            this.appImage.setOnClickListener(this);
             itemView.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View view) {
-            Toast.makeText(view.getContext(), installedApps.get(getAdapterPosition()).getLabel(), Toast.LENGTH_SHORT).show();
+            App app = (App) installedApps.get(getAdapterPosition());
+            if (app != null) {
+                Intent intent = view.getContext().getPackageManager().getLaunchIntentForPackage(app.getApplicationPackageName());
+
+                if (intent != null) {
+                    view.getContext().startActivity(intent);
+                }
+            }
+
         }
     }
 
